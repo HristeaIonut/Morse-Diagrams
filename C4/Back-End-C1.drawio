@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T11:17:53.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="3iaNDJE0mu2wRPwoyUMz" version="14.4.9" type="github"><diagram id="H8R2GNM9iak2mDNmFYrU" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T20:11:56.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DIq-sm3ZSqxXdzBTJWY9" version="14.4.9" type="github" pages="5">
+  <diagram id="H8R2GNM9iak2mDNmFYrU" name="Page-1">
+    <mxGraphModel dx="1038" dy="2780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="Log In Button " c4Type="Container" c4Technology="JAVA" c4Description="The log-in button the costumer will use" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="CRWafG1QDL7Ib-p2LC0e-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="290" y="-1860" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-3" value="" style="endArrow=classic;html=1;exitX=0.444;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CRWafG1QDL7Ib-p2LC0e-1" target="CRWafG1QDL7Ib-p2LC0e-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-1570" as="sourcePoint" />
+            <mxPoint x="363.03999999999996" y="-1702.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-4" value="The front-end send the information to the back-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1730" width="290" height="20" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Database" c4Technology="Technology" c4Description="Local Database" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="CRWafG1QDL7Ib-p2LC0e-5">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
+            <mxGeometry x="640" y="-1685" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="3rd API" c4Type="Software System" c4Description="The API of existing messenger platforms" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="CRWafG1QDL7Ib-p2LC0e-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="280" y="-1500" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="CRWafG1QDL7Ib-p2LC0e-14" target="CRWafG1QDL7Ib-p2LC0e-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="-1585" as="sourcePoint" />
+            <mxPoint x="450" y="-1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API Local Verification" c4Type="Software System" c4Description="We manage the response from the 3rd API" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="CRWafG1QDL7Ib-p2LC0e-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="280" y="-1670" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-15" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="CRWafG1QDL7Ib-p2LC0e-14" target="CRWafG1QDL7Ib-p2LC0e-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="-1470" as="sourcePoint" />
+            <mxPoint x="450" y="-1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-17" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CRWafG1QDL7Ib-p2LC0e-5" target="CRWafG1QDL7Ib-p2LC0e-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-1570" as="sourcePoint" />
+            <mxPoint x="450" y="-1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-21" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.438;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CRWafG1QDL7Ib-p2LC0e-14" target="CRWafG1QDL7Ib-p2LC0e-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-1570" as="sourcePoint" />
+            <mxPoint x="450" y="-1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-22" value="Login Succesful/Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-1730" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-23" value="Call the API and receive a response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-1540" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CRWafG1QDL7Ib-p2LC0e-24" value="Writes locally our login information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-1600" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tDElL4wLqLOTm-xsZLmG" name="Page-2">
+    <mxGraphModel dx="1038" dy="2918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="MbP_VyGz2Ut3rkr8A8Uo-0" />
+        <mxCell id="MbP_VyGz2Ut3rkr8A8Uo-1" parent="MbP_VyGz2Ut3rkr8A8Uo-0" />
+        <object placeholders="1" c4Name="3rd API" c4Type="Software System" c4Description="The API of existing messenger platforms that will send us back the contact list " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Cmr2BP0v9fpxTyhfhCla-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="MbP_VyGz2Ut3rkr8A8Uo-1">
+            <mxGeometry x="280" y="-1480" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Cmr2BP0v9fpxTyhfhCla-1" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="MbP_VyGz2Ut3rkr8A8Uo-1" target="Cmr2BP0v9fpxTyhfhCla-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-1560" as="sourcePoint" />
+            <mxPoint x="450" y="-1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cmr2BP0v9fpxTyhfhCla-2" value="Call the API and receive a response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="MbP_VyGz2Ut3rkr8A8Uo-1">
+          <mxGeometry x="150" y="-1530" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cmr2BP0v9fpxTyhfhCla-3" value="The back-end will send the contact list back&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="MbP_VyGz2Ut3rkr8A8Uo-1">
+          <mxGeometry x="360" y="-1730" width="250" height="20" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Select Channel Button " c4Type="Container" c4Technology="JAVA" c4Description="The Select Channel button that will let the costumer choose the messaging platform" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Cmr2BP0v9fpxTyhfhCla-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="MbP_VyGz2Ut3rkr8A8Uo-1">
+            <mxGeometry x="290" y="-1860" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="API Request" c4Type="Software System" c4Description="We send a request to the API in seach of the contact list" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Cmr2BP0v9fpxTyhfhCla-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="MbP_VyGz2Ut3rkr8A8Uo-1">
+            <mxGeometry x="280" y="-1670" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Cmr2BP0v9fpxTyhfhCla-6" value="The front-end send the information to the back-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="MbP_VyGz2Ut3rkr8A8Uo-1">
+          <mxGeometry x="70" y="-1730" width="290" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YwoRlolcHvUX_s966v8S" name="Page-3">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Mv12rA3zL5ouDRcpI3Ts-0" />
+        <mxCell id="Mv12rA3zL5ouDRcpI3Ts-1" parent="Mv12rA3zL5ouDRcpI3Ts-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GeJTs5zK6MtqkU9E8iXu" name="Page-4">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VUy5poJRkqQA2v80Cj6N-0" />
+        <mxCell id="VUy5poJRkqQA2v80Cj6N-1" parent="VUy5poJRkqQA2v80Cj6N-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nhRsiYXTsVWmU4hQi_As" name="Page-5">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DrH3ELA6LDG7pspLI8B1-0" />
+        <mxCell id="DrH3ELA6LDG7pspLI8B1-1" parent="DrH3ELA6LDG7pspLI8B1-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
