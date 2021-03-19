@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T21:48:24.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bQFMxYyVspdJ69JSpG2l" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-19T21:52:01.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bTE-EnYDY57a1gTirSzB" version="14.4.9" type="github" pages="3">
   <diagram id="LINnmihD1HDYcQzkTkvL" name="Context-Diagram">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,10 +54,10 @@
             <mxGeometry x="290" width="200" height="210" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="_aLZu_ahKe6GKmb_PSZ8-0" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wOS5Aw5rxeHMLlzVHDFe-1" source="pBNtO9eGpEC3GKz0Tmak-0" target="p76zneJWpC1tOdE94Fz_-1">
+        <mxCell id="_aLZu_ahKe6GKmb_PSZ8-0" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wOS5Aw5rxeHMLlzVHDFe-1" source="pBNtO9eGpEC3GKz0Tmak-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="240" as="sourcePoint" />
-            <mxPoint x="300" y="370" as="targetPoint" />
+            <mxPoint x="390" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_aLZu_ahKe6GKmb_PSZ8-1" value="&lt;div&gt;View all the messages and send a new&amp;nbsp;&lt;/div&gt;&lt;div&gt;message&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_aLZu_ahKe6GKmb_PSZ8-0">
@@ -65,9 +65,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="UI" c4Type="Container" c4Technology="Java" c4Description="Shows messages and a way of sending them" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="p76zneJWpC1tOdE94Fz_-1">
+        <object placeholders="1" c4Name="AplicationAPI" c4Type="Container" c4Technology="Java" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="kbTnh4QHdYnFVdMwM1TQ-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
-            <mxGeometry x="310" y="280" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="80" y="450" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
       </root>
