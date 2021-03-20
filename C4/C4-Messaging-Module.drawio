@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T02:51:34.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Cnehu-5ksYPnofAxFZiY" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-20T03:22:23.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="nSBNHIFn_LKEm9IaZsRW" version="14.4.9" type="github" pages="3">
   <diagram id="LINnmihD1HDYcQzkTkvL" name="Context-Diagram">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxGeometry x="200" y="30" width="200" height="210" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Messaging System" c4Type="Software System" c4Description="Allows Users to visualise the current&#xa;messages and send messages to this&#xa;contact  " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="7fiKnrMGYGweo_oKRSSX-10">
+        <object placeholders="1" c4Name="Messaging System" c4Type="Software System" c4Description="Allows Users to visualise the current&#xa;messages and send or delete messages in the current chat  " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="7fiKnrMGYGweo_oKRSSX-10">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="200" y="370" width="200" height="150" as="geometry" />
           </mxCell>
@@ -25,7 +25,7 @@
             <mxPoint x="350" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fiKnrMGYGweo_oKRSSX-18" value="&lt;div&gt;View all the messages and send new&amp;nbsp;&lt;/div&gt;&lt;div&gt;messages using&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7fiKnrMGYGweo_oKRSSX-17">
+        <mxCell id="7fiKnrMGYGweo_oKRSSX-18" value="Is provided with &lt;br&gt;communication functionalities from&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7fiKnrMGYGweo_oKRSSX-17">
           <mxGeometry x="-0.148" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -54,46 +54,57 @@
             <mxGeometry x="290" width="200" height="210" as="geometry" />
           </mxCell>
         </object>
+        <object placeholders="1" c4Name="Messaging system" c4Type="ExecutionEnvironment" c4Application="v1.0" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="ko1Tmr0zMxz6oiPuWIs1-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
+            <mxGeometry x="60" y="340" width="540" height="330" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="Java" c4Description="Shows all the messages of the current selected contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="R5-SsgkZgW_UhFA3CqFh-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
+            <mxGeometry x="110" y="380" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="_aLZu_ahKe6GKmb_PSZ8-0" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wOS5Aw5rxeHMLlzVHDFe-1" source="pBNtO9eGpEC3GKz0Tmak-0" target="R5-SsgkZgW_UhFA3CqFh-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="240" as="sourcePoint" />
             <mxPoint x="390" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ko1Tmr0zMxz6oiPuWIs1-0" value="View messages and send a new messages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_aLZu_ahKe6GKmb_PSZ8-0">
+        <mxCell id="ko1Tmr0zMxz6oiPuWIs1-0" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_aLZu_ahKe6GKmb_PSZ8-0">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="Java" c4Description="Shows all the messages of the current selected contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="R5-SsgkZgW_UhFA3CqFh-0">
+        <object placeholders="1" c4Name="Aplication API" c4Type="Container" c4Technology="Java" c4Description="Provides messaging functionalities" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="31LmDkMRhqVnIdzTJvWc-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
-            <mxGeometry x="310" y="270" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="370" y="475" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Aplication API" c4Type="ExecutionEnvironment" c4Application="v1.0" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="ko1Tmr0zMxz6oiPuWIs1-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
-            <mxGeometry x="20" y="430" width="540" height="330" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="Java" c4Description="Shows all the messages of the current selected contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ko1Tmr0zMxz6oiPuWIs1-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
-            <mxGeometry x="40" y="450" width="160" height="110.00000000000001" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Aplication API" c4Type="Container" c4Technology="Java" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="kbTnh4QHdYnFVdMwM1TQ-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
-            <mxGeometry x="40" y="600" width="160" height="110.00000000000001" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="dna0fKfAQoHeKduEX7SL-0" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wOS5Aw5rxeHMLlzVHDFe-1" source="R5-SsgkZgW_UhFA3CqFh-0" target="ko1Tmr0zMxz6oiPuWIs1-1">
+        <mxCell id="31LmDkMRhqVnIdzTJvWc-1" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wOS5Aw5rxeHMLlzVHDFe-1" source="R5-SsgkZgW_UhFA3CqFh-0" target="31LmDkMRhqVnIdzTJvWc-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="220" as="sourcePoint" />
-            <mxPoint x="400" y="280" as="targetPoint" />
+            <mxPoint x="150" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dna0fKfAQoHeKduEX7SL-1" value="View messages and send a new messages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dna0fKfAQoHeKduEX7SL-0">
+        <mxCell id="31LmDkMRhqVnIdzTJvWc-2" value="Makes API calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="31LmDkMRhqVnIdzTJvWc-1">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12.420000000000002" y="-22.060000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The internal API of the current channel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="IHC3r-E_NsReKPvIqA5m-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wOS5Aw5rxeHMLlzVHDFe-1">
+            <mxGeometry x="740" y="510" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="O8OPM2gffkZO3LC-kkqM-0" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wOS5Aw5rxeHMLlzVHDFe-1" source="31LmDkMRhqVnIdzTJvWc-0" target="IHC3r-E_NsReKPvIqA5m-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="495" as="sourcePoint" />
+            <mxPoint x="380" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O8OPM2gffkZO3LC-kkqM-1" value="Makes API calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O8OPM2gffkZO3LC-kkqM-0">
+          <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
+            <mxPoint x="-18.970000000000002" y="-4.330000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -115,12 +126,12 @@
             <mxPoint x="390" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6R8gSCNAFCSRrQYCPY57-2" value="View messages and send a new messages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6R8gSCNAFCSRrQYCPY57-1">
+        <mxCell id="6R8gSCNAFCSRrQYCPY57-2" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6R8gSCNAFCSRrQYCPY57-1">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="Java" c4Description="Shows all the messages of the current selected contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="6R8gSCNAFCSRrQYCPY57-3">
+        <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="Java" c4Description="Shows all the messages of the current selected contact and provides communication functionalities" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="6R8gSCNAFCSRrQYCPY57-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
             <mxGeometry x="310" y="300" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
