@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T02:50:15.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bR7OtOtmqtKCR5AYZUoW" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-20T02:51:34.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Cnehu-5ksYPnofAxFZiY" version="14.4.9" type="github" pages="3">
   <diagram id="LINnmihD1HDYcQzkTkvL" name="Context-Diagram">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
             <mxPoint x="120" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6R8gSCNAFCSRrQYCPY57-6" value="Makes API call&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6R8gSCNAFCSRrQYCPY57-5">
+        <mxCell id="6R8gSCNAFCSRrQYCPY57-6" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6R8gSCNAFCSRrQYCPY57-5">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint x="27.910000000000004" y="-18.52" as="offset" />
           </mxGeometry>
@@ -147,7 +147,7 @@
             <mxPoint x="290" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohcIhqdVafqrEyvv1l_J-4" value="Makes API call&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohcIhqdVafqrEyvv1l_J-3">
+        <mxCell id="ohcIhqdVafqrEyvv1l_J-4" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohcIhqdVafqrEyvv1l_J-3">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint x="38.85" y="-24.25" as="offset" />
           </mxGeometry>
@@ -158,7 +158,7 @@
             <mxPoint x="480" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohcIhqdVafqrEyvv1l_J-7" value="Makes API call&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohcIhqdVafqrEyvv1l_J-6">
+        <mxCell id="ohcIhqdVafqrEyvv1l_J-7" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohcIhqdVafqrEyvv1l_J-6">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint x="9.66" y="-15.92" as="offset" />
           </mxGeometry>
@@ -175,15 +175,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIyKfca_J-JseW51ahed-1" value="Makes API calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KIyKfca_J-JseW51ahed-0">
+        <mxCell id="KIyKfca_J-JseW51ahed-1" value="Makes API calls to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KIyKfca_J-JseW51ahed-0">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
-            <mxPoint x="-17.79" y="-7.419999999999995" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="58kcYUtlPYnVnSeYqNd8-2" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="260" as="sourcePoint" />
-            <mxPoint x="395" y="200" as="targetPoint" />
+            <mxPoint x="-17.79" y="-2.4199999999999946" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Get messages" c4Type="Component" c4Technology="Java" c4Description="This return all the messages between the current &#xa;user and contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="EmnsGkhcUmimmquGP0d--0">
