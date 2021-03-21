@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T20:53:14.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="6eWSP7RATsK1wXYP7zjH" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-21T20:54:03.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w0rWSrHPKitfNc_PY6nz" version="14.4.9" type="github" pages="3">
   <diagram id="BGwZbRaYp8CcoHQ7zAZs" name="Context-Diagram">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The API of the current channel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ftTxNEuxC_B4t4lPerue-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Lu1Hwj6ybN4QLjdbewPl-1">
-            <mxGeometry x="365" y="710" width="160" height="100" as="geometry" />
+            <mxGeometry x="365" y="700" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="ftTxNEuxC_B4t4lPerue-8" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lu1Hwj6ybN4QLjdbewPl-1" source="ftTxNEuxC_B4t4lPerue-7" target="ftTxNEuxC_B4t4lPerue-0">
