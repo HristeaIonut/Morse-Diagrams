@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T20:47:52.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EVcuZLAF_vRk4x0estb4" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-21T20:48:33.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OdOCXEBMQSmzpBhdsDbB" version="14.4.9" type="github" pages="3">
   <diagram id="BGwZbRaYp8CcoHQ7zAZs" name="Context-Diagram">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
             <mxGeometry x="340" y="60" width="110.00000000000001" height="140" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ftTxNEuxC_B4t4lPerue-2" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Lu1Hwj6ybN4QLjdbewPl-1" target="ftTxNEuxC_B4t4lPerue-1" source="ftTxNEuxC_B4t4lPerue-0">
+        <mxCell id="ftTxNEuxC_B4t4lPerue-2" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lu1Hwj6ybN4QLjdbewPl-1" target="ftTxNEuxC_B4t4lPerue-1" source="ftTxNEuxC_B4t4lPerue-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="395" y="260" as="sourcePoint" />
             <mxPoint x="439" y="210" as="targetPoint" />
@@ -118,26 +118,15 @@
         <mxCell id="ftTxNEuxC_B4t4lPerue-4" value="The back-end will send the contact list back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Lu1Hwj6ybN4QLjdbewPl-1">
           <mxGeometry x="410" y="220" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ftTxNEuxC_B4t4lPerue-5" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lu1Hwj6ybN4QLjdbewPl-1" source="ftTxNEuxC_B4t4lPerue-0" target="ftTxNEuxC_B4t4lPerue-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="339.9999999999999" as="sourcePoint" />
-            <mxPoint x="665" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Type="Database" c4Technology="Technology" c4Description="Contact List" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ftTxNEuxC_B4t4lPerue-6">
-          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="Lu1Hwj6ybN4QLjdbewPl-1">
-            <mxGeometry x="780" y="280" width="160" height="140" as="geometry" />
-          </mxCell>
-        </object>
         <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The API of the current channel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ftTxNEuxC_B4t4lPerue-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Lu1Hwj6ybN4QLjdbewPl-1">
             <mxGeometry x="315" y="680" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ftTxNEuxC_B4t4lPerue-8" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lu1Hwj6ybN4QLjdbewPl-1" source="ftTxNEuxC_B4t4lPerue-7" target="ftTxNEuxC_B4t4lPerue-0">
+        <mxCell id="ftTxNEuxC_B4t4lPerue-8" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lu1Hwj6ybN4QLjdbewPl-1" source="ftTxNEuxC_B4t4lPerue-7" target="ftTxNEuxC_B4t4lPerue-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="510" as="sourcePoint" />
-            <mxPoint x="480" y="550" as="targetPoint" />
+            <mxPoint x="490" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Contact Operator" c4Type="ExecutionEnvironment" c4Application="v1.0" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="qI9EfmSj6_cnDd3YdTv9-0">
