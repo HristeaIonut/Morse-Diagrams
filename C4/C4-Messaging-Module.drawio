@@ -1,42 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T03:23:36.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DOrSZUagKXzYqNI6YN2H" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-22T10:13:28.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="R4sjx2awdp1KvtTqDVyX" version="14.4.9" type="github" pages="3">
   <diagram id="LINnmihD1HDYcQzkTkvL" name="Context-Diagram">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="User" c4Type="Person" c4Description="User that selected a contact &#xa;from the list of contacts" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="7fiKnrMGYGweo_oKRSSX-4">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="200" y="30" width="200" height="210" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Messaging System" c4Type="Software System" c4Description="Allows Users to visualise the current&#xa;messages and send or delete messages in the current chat  " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="7fiKnrMGYGweo_oKRSSX-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="370" width="200" height="150" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The internal API of the &#xa;current channel " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="7fiKnrMGYGweo_oKRSSX-12">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="630" y="310" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="7fiKnrMGYGweo_oKRSSX-17" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7fiKnrMGYGweo_oKRSSX-4" target="7fiKnrMGYGweo_oKRSSX-10">
+        <mxCell id="7fiKnrMGYGweo_oKRSSX-17" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7fiKnrMGYGweo_oKRSSX-4" target="7fiKnrMGYGweo_oKRSSX-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="240" as="sourcePoint" />
             <mxPoint x="350" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fiKnrMGYGweo_oKRSSX-18" value="Is provided with &lt;br&gt;communication functionalities from&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7fiKnrMGYGweo_oKRSSX-17">
+        <mxCell id="7fiKnrMGYGweo_oKRSSX-18" value="Is provided with &lt;br&gt;communication functionalities from&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7fiKnrMGYGweo_oKRSSX-17" vertex="1" connectable="0">
           <mxGeometry x="-0.148" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fiKnrMGYGweo_oKRSSX-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7fiKnrMGYGweo_oKRSSX-10" target="7fiKnrMGYGweo_oKRSSX-12">
+        <mxCell id="7fiKnrMGYGweo_oKRSSX-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7fiKnrMGYGweo_oKRSSX-10" target="7fiKnrMGYGweo_oKRSSX-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="340" as="sourcePoint" />
             <mxPoint x="610" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fiKnrMGYGweo_oKRSSX-20" value="Managing messages&lt;br&gt;&amp;nbsp;using" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7fiKnrMGYGweo_oKRSSX-19">
+        <mxCell id="7fiKnrMGYGweo_oKRSSX-20" value="Managing messages&lt;br&gt;&amp;nbsp;using" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7fiKnrMGYGweo_oKRSSX-19" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -111,101 +111,127 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bjKANISwPoHKCwliM6SM" name="Component-Diagram">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QX4rX3mfWf0FfhNPfQnd-0" />
         <mxCell id="QX4rX3mfWf0FfhNPfQnd-1" parent="QX4rX3mfWf0FfhNPfQnd-0" />
         <object placeholders="1" c4Name="User" c4Type="Person" c4Description="User that selected a contact &#xa;from the list of contacts" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="6R8gSCNAFCSRrQYCPY57-0">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="QX4rX3mfWf0FfhNPfQnd-1" vertex="1">
             <mxGeometry x="310" y="50" width="160" height="180" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="6R8gSCNAFCSRrQYCPY57-1" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-0" target="6R8gSCNAFCSRrQYCPY57-3">
+        <mxCell id="6R8gSCNAFCSRrQYCPY57-1" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-0" target="6R8gSCNAFCSRrQYCPY57-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="240" as="sourcePoint" />
             <mxPoint x="390" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6R8gSCNAFCSRrQYCPY57-2" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6R8gSCNAFCSRrQYCPY57-1">
+        <mxCell id="6R8gSCNAFCSRrQYCPY57-2" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6R8gSCNAFCSRrQYCPY57-1" vertex="1" connectable="0">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="Java" c4Description="Shows all the messages of the current selected contact and provides communication functionalities" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="6R8gSCNAFCSRrQYCPY57-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="QX4rX3mfWf0FfhNPfQnd-1" vertex="1">
             <mxGeometry x="310" y="300" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Aplication API" c4Type="ExecutionEnvironment" c4Application="v1.0" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="6R8gSCNAFCSRrQYCPY57-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
-            <mxGeometry x="20" y="495" width="570" height="180" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="QX4rX3mfWf0FfhNPfQnd-1" vertex="1">
+            <mxGeometry x="20" y="495" width="800" height="180" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="6R8gSCNAFCSRrQYCPY57-5" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-3" target="EmnsGkhcUmimmquGP0d--0">
+        <mxCell id="6R8gSCNAFCSRrQYCPY57-5" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-3" target="EmnsGkhcUmimmquGP0d--0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="220" as="sourcePoint" />
             <mxPoint x="120" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6R8gSCNAFCSRrQYCPY57-6" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6R8gSCNAFCSRrQYCPY57-5">
+        <mxCell id="6R8gSCNAFCSRrQYCPY57-6" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6R8gSCNAFCSRrQYCPY57-5" vertex="1" connectable="0">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint x="27.910000000000004" y="-18.52" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohcIhqdVafqrEyvv1l_J-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-3" target="EmnsGkhcUmimmquGP0d--1">
+        <mxCell id="ohcIhqdVafqrEyvv1l_J-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-3" target="EmnsGkhcUmimmquGP0d--1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="390" as="sourcePoint" />
             <mxPoint x="290" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohcIhqdVafqrEyvv1l_J-4" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohcIhqdVafqrEyvv1l_J-3">
+        <mxCell id="ohcIhqdVafqrEyvv1l_J-4" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ohcIhqdVafqrEyvv1l_J-3" vertex="1" connectable="0">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint x="38.85" y="-24.25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohcIhqdVafqrEyvv1l_J-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-3" target="EmnsGkhcUmimmquGP0d--2">
+        <mxCell id="ohcIhqdVafqrEyvv1l_J-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-3" target="EmnsGkhcUmimmquGP0d--2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="390" as="sourcePoint" />
             <mxPoint x="480" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohcIhqdVafqrEyvv1l_J-7" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohcIhqdVafqrEyvv1l_J-6">
+        <mxCell id="ohcIhqdVafqrEyvv1l_J-7" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ohcIhqdVafqrEyvv1l_J-6" vertex="1" connectable="0">
+          <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
+            <mxPoint x="9.66" y="-15.92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn26QlwxEM3C0nGsddFa-1" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohcIhqdVafqrEyvv1l_J-6">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint x="9.66" y="-15.92" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The internal API of the current channel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ohcIhqdVafqrEyvv1l_J-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
-            <mxGeometry x="790" y="515" width="160" height="110.00000000000001" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="QX4rX3mfWf0FfhNPfQnd-1" vertex="1">
+            <mxGeometry x="980" y="470" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="KIyKfca_J-JseW51ahed-0" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-4" target="ohcIhqdVafqrEyvv1l_J-8">
+        <mxCell id="KIyKfca_J-JseW51ahed-0" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-4" target="ohcIhqdVafqrEyvv1l_J-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="650" as="sourcePoint" />
             <mxPoint x="310" y="720" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIyKfca_J-JseW51ahed-1" value="Makes API calls to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KIyKfca_J-JseW51ahed-0">
+        <mxCell id="KIyKfca_J-JseW51ahed-1" value="Makes API calls to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KIyKfca_J-JseW51ahed-0" vertex="1" connectable="0">
           <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
             <mxPoint x="-17.79" y="-2.4199999999999946" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Get messages" c4Type="Component" c4Technology="Java" c4Description="This return all the messages between the current &#xa;user and contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="EmnsGkhcUmimmquGP0d--0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="QX4rX3mfWf0FfhNPfQnd-1" vertex="1">
             <mxGeometry x="40" y="520" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Send messages" c4Type="Component" c4Technology="Java" c4Description="Sending a message from the current user &#xa;to the selected contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="EmnsGkhcUmimmquGP0d--1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="QX4rX3mfWf0FfhNPfQnd-1" vertex="1">
             <mxGeometry x="230" y="520" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Delete messages" c4Type="Component" c4Technology="Java" c4Description="Delete a message sent by the current user in &#xa;the conversation with the selected contact" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="EmnsGkhcUmimmquGP0d--2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="QX4rX3mfWf0FfhNPfQnd-1" vertex="1">
             <mxGeometry x="414" y="520" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
+        <object placeholders="1" c4Name="Send delayed message" c4Type="Component" c4Technology="Java" c4Description="Sends a message after a specified period of time" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="sn26QlwxEM3C0nGsddFa-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="QX4rX3mfWf0FfhNPfQnd-1">
+            <mxGeometry x="610" y="530" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="sn26QlwxEM3C0nGsddFa-2" value="" style="endArrow=classic;html=1;entryX=0.456;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.994;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QX4rX3mfWf0FfhNPfQnd-1" source="6R8gSCNAFCSRrQYCPY57-3" target="sn26QlwxEM3C0nGsddFa-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="sourcePoint" />
+            <mxPoint x="504" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn26QlwxEM3C0nGsddFa-3" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sn26QlwxEM3C0nGsddFa-2">
+          <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
+            <mxPoint x="9.66" y="-15.92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn26QlwxEM3C0nGsddFa-4" value="Makes API calls to&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sn26QlwxEM3C0nGsddFa-2">
+          <mxGeometry x="0.28" y="-2" relative="1" as="geometry">
+            <mxPoint x="9.66" y="-15.92" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
