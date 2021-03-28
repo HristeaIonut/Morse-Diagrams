@@ -1,29 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T16:42:05.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DjCxLmoIXBnIzayV8exs" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-28T16:44:44.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2mKFvP77d_D7qmfB9MTj" version="14.5.3" type="github" pages="4">
   <diagram name="Login Module" id="3mVHYXctMBW3wJz3Hiqr">
     <mxGraphModel dx="1038" dy="2886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="o9i_BpebNKQVFLbcYuT6-0" />
         <mxCell id="o9i_BpebNKQVFLbcYuT6-1" parent="o9i_BpebNKQVFLbcYuT6-0" />
-        <object placeholders="1" c4Name="Log In Button " c4Type="Container" c4Technology="JAVA" c4Description="The log-in button the costumer will use" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="mfj9_3gTwRDB2nDZH38S-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
-            <mxGeometry x="827" y="-1610" width="160" height="100" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="mfj9_3gTwRDB2nDZH38S-1" value="" style="endArrow=classic;html=1;exitX=0.444;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="o9i_BpebNKQVFLbcYuT6-1" source="mfj9_3gTwRDB2nDZH38S-0" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="-1390" as="sourcePoint" />
-            <mxPoint x="590" y="-1490" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="jM7TTQUF3KDPgawycMoC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" source="mfj9_3gTwRDB2nDZH38S-2" target="mfj9_3gTwRDB2nDZH38S-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mfj9_3gTwRDB2nDZH38S-2" value="The front-end send the information to the back-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
-          <mxGeometry x="300" y="-1550" width="290" height="20" as="geometry" />
+          <mxGeometry x="90" y="-1425" width="290" height="20" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Database" c4Technology="Technology" c4Description="Local Database" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="mfj9_3gTwRDB2nDZH38S-3">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
             <mxGeometry x="980" y="-1485" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="3rd API" c4Type="Software System" c4Description="The API of existing messenger platforms" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="mfj9_3gTwRDB2nDZH38S-4">
+        <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The API of existing messenger platforms" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="mfj9_3gTwRDB2nDZH38S-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
             <mxGeometry x="505" y="-1240" width="160" height="100" as="geometry" />
           </mxCell>
@@ -40,14 +32,8 @@
             <mxPoint x="650" y="-1435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mfj9_3gTwRDB2nDZH38S-7" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.438;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" parent="o9i_BpebNKQVFLbcYuT6-1" target="mfj9_3gTwRDB2nDZH38S-0" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="-1490" as="sourcePoint" />
-            <mxPoint x="680" y="-1440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mfj9_3gTwRDB2nDZH38S-8" value="Login Succesful/Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
-          <mxGeometry x="600" y="-1550" width="130" height="20" as="geometry" />
+          <mxGeometry x="190" y="-1400" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mfj9_3gTwRDB2nDZH38S-9" value="Writes locally our login information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
           <mxGeometry x="770" y="-1400" width="200" height="20" as="geometry" />
@@ -101,23 +87,20 @@
             <mxGeometry x="570" y="-1760" width="110.00000000000001" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ytyJmYb3KqyjJYJnErVl-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
-            <mxGeometry x="940" y="-1760" width="160" height="110.00000000000001" as="geometry" />
+        <object placeholders="1" c4Name="Aplication UI" c4Type="Software System" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jM7TTQUF3KDPgawycMoC-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
+            <mxGeometry x="700" y="-1570" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="jM7TTQUF3KDPgawycMoC-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" source="ytyJmYb3KqyjJYJnErVl-0" target="ytyJmYb3KqyjJYJnErVl-1">
+        <mxCell id="jM7TTQUF3KDPgawycMoC-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" target="jM7TTQUF3KDPgawycMoC-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="745" y="-1728" as="sourcePoint" />
-            <mxPoint x="795" y="-1778" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="-1660" />
-            </Array>
+            <mxPoint x="630" y="-1620" as="sourcePoint" />
+            <mxPoint x="680" y="-1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM7TTQUF3KDPgawycMoC-3" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jM7TTQUF3KDPgawycMoC-2">
-          <mxGeometry x="0.1467" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="jM7TTQUF3KDPgawycMoC-7" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jM7TTQUF3KDPgawycMoC-6">
+          <mxGeometry x="0.3384" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
