@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T17:27:15.158Z" agent="5.0 (X11)" etag="hJIi8VUtt20Q3DfjRXb5" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-28T17:28:15.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="weV5kWozdcycRa2PHJnJ" version="14.5.3" type="github" pages="4">
   <diagram name="Login Module" id="3mVHYXctMBW3wJz3Hiqr">
-    <mxGraphModel dx="1673" dy="3262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="o9i_BpebNKQVFLbcYuT6-0" />
         <mxCell id="o9i_BpebNKQVFLbcYuT6-1" parent="o9i_BpebNKQVFLbcYuT6-0" />
@@ -126,7 +126,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5MAAJvF7uHnc804dla1a-12" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5MAAJvF7uHnc804dla1a-11">
+        <mxCell id="5MAAJvF7uHnc804dla1a-12" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5MAAJvF7uHnc804dla1a-11">
           <mxGeometry x="0.3384" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Select Channel Module" id="QWqTEnkOtP9ACVPwiv00">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mQUH3nDY8lA-0CQJi3Wt-0" />
         <mxCell id="mQUH3nDY8lA-0CQJi3Wt-1" parent="mQUH3nDY8lA-0CQJi3Wt-0" />
@@ -233,7 +233,7 @@
             <mxPoint x="360" y="-1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jf1zhvNXtCwp9bPW04Ke-5" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Call the API and receive a response&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="u-zlIi6k5A0aTZN8uA1E-10">
+        <mxCell id="jf1zhvNXtCwp9bPW04Ke-5" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Call the API and receive a response&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u-zlIi6k5A0aTZN8uA1E-10">
           <mxGeometry x="0.3636" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -278,7 +278,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Send Message Module" id="Guk4AuIiQkaXeEMAA8VQ">
-    <mxGraphModel dx="2249" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QX4rX3mfWf0FfhNPfQnd-0" />
         <mxCell id="QX4rX3mfWf0FfhNPfQnd-1" parent="QX4rX3mfWf0FfhNPfQnd-0" />
@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contacts Module" id="qeo0WfuFc0jTOW3byDqY">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Lu1Hwj6ybN4QLjdbewPl-0" />
         <mxCell id="Lu1Hwj6ybN4QLjdbewPl-1" parent="Lu1Hwj6ybN4QLjdbewPl-0" />
