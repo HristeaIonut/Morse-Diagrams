@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T17:04:22.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="I4iTonwooyrmqKcN7Msv" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-28T17:15:39.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="l1snp47f4iYhCtjear9q" version="14.5.3" type="github" pages="4">
   <diagram name="Login Module" id="3mVHYXctMBW3wJz3Hiqr">
     <mxGraphModel dx="1038" dy="2886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,16 +6,16 @@
         <mxCell id="o9i_BpebNKQVFLbcYuT6-1" parent="o9i_BpebNKQVFLbcYuT6-0" />
         <object placeholders="1" c4Type="Database" c4Technology="SQLite" c4Description="Local Database" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="mfj9_3gTwRDB2nDZH38S-3">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
-            <mxGeometry x="1010" y="-1330" width="160" height="140" as="geometry" />
+            <mxGeometry x="1030" y="-1675" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="mfj9_3gTwRDB2nDZH38S-5" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.436;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" parent="o9i_BpebNKQVFLbcYuT6-1" source="4FqvSOvcf2bWnyUJE1s0-0" target="EWv7koG1jS9lpudBKMWd-0" edge="1">
+        <mxCell id="mfj9_3gTwRDB2nDZH38S-5" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="o9i_BpebNKQVFLbcYuT6-1" source="4FqvSOvcf2bWnyUJE1s0-0" target="EWv7koG1jS9lpudBKMWd-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="315" y="-1200" as="sourcePoint" />
             <mxPoint x="625" y="-1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWv7koG1jS9lpudBKMWd-1" value="Makes API calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mfj9_3gTwRDB2nDZH38S-5">
+        <mxCell id="EWv7koG1jS9lpudBKMWd-1" value="Makes API calls to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mfj9_3gTwRDB2nDZH38S-5">
           <mxGeometry x="0.3815" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -80,7 +80,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The internal API of the current channel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="EWv7koG1jS9lpudBKMWd-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
-            <mxGeometry x="545" y="-1220" width="160" height="100" as="geometry" />
+            <mxGeometry x="553.5" y="-1210" width="160" height="110" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="mfj9_3gTwRDB2nDZH38S-6" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="o9i_BpebNKQVFLbcYuT6-1" source="4FqvSOvcf2bWnyUJE1s0-0" target="EWv7koG1jS9lpudBKMWd-2" edge="1">
@@ -89,17 +89,12 @@
             <mxPoint x="650" y="-1435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM7TTQUF3KDPgawycMoC-8" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Writes locally our login information&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mfj9_3gTwRDB2nDZH38S-6">
-          <mxGeometry x="-0.5321" y="3" relative="1" as="geometry">
-            <mxPoint x="-43.66" y="-58.41" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="Aplication API" c4Type="ExecutionEnvironment" c4Application="v1.0" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="4FqvSOvcf2bWnyUJE1s0-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
-            <mxGeometry x="340" y="-1480" width="390" height="170" as="geometry" />
+            <mxGeometry x="440" y="-1490" width="387" height="190" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="4FqvSOvcf2bWnyUJE1s0-1" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" source="mfj9_3gTwRDB2nDZH38S-3" target="EWv7koG1jS9lpudBKMWd-2">
+        <mxCell id="4FqvSOvcf2bWnyUJE1s0-1" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" source="mfj9_3gTwRDB2nDZH38S-3" target="4FqvSOvcf2bWnyUJE1s0-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="-1260" as="sourcePoint" />
             <mxPoint x="1000" y="-1505" as="targetPoint" />
@@ -107,17 +102,17 @@
         </mxCell>
         <mxCell id="4FqvSOvcf2bWnyUJE1s0-2" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Writes locally our login information&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4FqvSOvcf2bWnyUJE1s0-1">
           <mxGeometry x="-0.5321" y="3" relative="1" as="geometry">
-            <mxPoint x="-43.66" y="-58.41" as="offset" />
+            <mxPoint x="-38.38999999999999" y="21.150000000000006" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Login Validator" c4Type="Component" c4Technology="Java" c4Description="If an user is already logged, " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="EWv7koG1jS9lpudBKMWd-2">
+        <object placeholders="1" c4Name="Login Validator" c4Type="Component" c4Technology="Java" c4Description="If an user is already logged in, it will be redirected to contacts page, otherwise the required login info will be validated." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="EWv7koG1jS9lpudBKMWd-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
-            <mxGeometry x="550" y="-1460" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="640" y="-1460" width="160" height="130" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Login Validator" c4Type="Component" c4Technology="Java" c4Description="If an user is already  " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="4FqvSOvcf2bWnyUJE1s0-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
-            <mxGeometry x="370" y="-1460" width="160" height="110.00000000000001" as="geometry" />
+        <object placeholders="1" c4Name="Registration" c4Type="Component" c4Technology="Java" c4Description="Users can register in the current channel and validations will be provided in case is necessary." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="4FqvSOvcf2bWnyUJE1s0-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rotation=0;" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
+            <mxGeometry x="460" y="-1460" width="160" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
