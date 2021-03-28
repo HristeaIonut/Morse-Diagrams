@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T16:48:50.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OMTNt0l-sHwA7SYh_aI1" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-28T16:49:17.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="gT4-18y_5izQbi0BhFxK" version="14.5.3" type="github" pages="4">
   <diagram name="Login Module" id="3mVHYXctMBW3wJz3Hiqr">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="2886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="o9i_BpebNKQVFLbcYuT6-0" />
         <mxCell id="o9i_BpebNKQVFLbcYuT6-1" parent="o9i_BpebNKQVFLbcYuT6-0" />
         <object placeholders="1" c4Type="Database" c4Technology="Technology" c4Description="Local Database" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="mfj9_3gTwRDB2nDZH38S-3">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
-            <mxGeometry x="1030" y="-1400" width="160" height="140" as="geometry" />
+            <mxGeometry x="1010" y="-1480" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Channel API" c4Type="Software System" c4Description="The API of existing messenger platforms" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="mfj9_3gTwRDB2nDZH38S-4">
@@ -26,7 +26,7 @@
             <mxPoint x="650" y="-1435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM7TTQUF3KDPgawycMoC-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="mfj9_3gTwRDB2nDZH38S-6">
+        <mxCell id="jM7TTQUF3KDPgawycMoC-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mfj9_3gTwRDB2nDZH38S-6">
           <mxGeometry x="-0.5321" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -76,13 +76,13 @@
           <mxGeometry x="580" y="-870" width="130" height="20" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="User" c4Type="Person" c4Description="An user that freshly&#xa; opened the app" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="ytyJmYb3KqyjJYJnErVl-0">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="o9i_BpebNKQVFLbcYuT6-1" vertex="1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
             <mxGeometry x="570" y="-1860" width="110.00000000000001" height="140" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Aplication UI" c4Type="Software System" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jM7TTQUF3KDPgawycMoC-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
-            <mxGeometry x="545" y="-1640" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="545" y="-1660" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="jM7TTQUF3KDPgawycMoC-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" source="ytyJmYb3KqyjJYJnErVl-0" target="jM7TTQUF3KDPgawycMoC-4">
@@ -91,12 +91,12 @@
             <mxPoint x="680" y="-1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM7TTQUF3KDPgawycMoC-7" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jM7TTQUF3KDPgawycMoC-6">
+        <mxCell id="jM7TTQUF3KDPgawycMoC-7" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jM7TTQUF3KDPgawycMoC-6">
           <mxGeometry x="0.3384" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM7TTQUF3KDPgawycMoC-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" source="jM7TTQUF3KDPgawycMoC-4">
+        <mxCell id="jM7TTQUF3KDPgawycMoC-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="o9i_BpebNKQVFLbcYuT6-1" source="jM7TTQUF3KDPgawycMoC-4" target="mfj9_3gTwRDB2nDZH38S-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="-1500" as="sourcePoint" />
             <mxPoint x="910" y="-1480" as="targetPoint" />
@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Send Message Module" id="Guk4AuIiQkaXeEMAA8VQ">
-    <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QX4rX3mfWf0FfhNPfQnd-0" />
         <mxCell id="QX4rX3mfWf0FfhNPfQnd-1" parent="QX4rX3mfWf0FfhNPfQnd-0" />
@@ -338,7 +338,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i_MpP8sSK0Ao5cPFMJh1-8" value="Successful login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5uIkAF7zUP4JdlkCsUGo-11">
+        <mxCell id="i_MpP8sSK0Ao5cPFMJh1-8" value="Successful login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5uIkAF7zUP4JdlkCsUGo-11">
           <mxGeometry x="-0.2545" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -392,7 +392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contacts Module" id="qeo0WfuFc0jTOW3byDqY">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Lu1Hwj6ybN4QLjdbewPl-0" />
         <mxCell id="Lu1Hwj6ybN4QLjdbewPl-1" parent="Lu1Hwj6ybN4QLjdbewPl-0" />
