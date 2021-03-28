@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T17:23:38.466Z" agent="5.0 (X11)" etag="z4vhxsQIJRzXGtstw58l" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-28T17:24:16.855Z" agent="5.0 (X11)" etag="ZmbptIP5u-2VOB_mUOY1" version="14.5.3" type="github" pages="4">
   <diagram name="Login Module" id="3mVHYXctMBW3wJz3Hiqr">
     <mxGraphModel dx="1673" dy="3262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,11 @@
         <object placeholders="1" c4Name="Registration Button" c4Type="Container" c4Technology="JAVA" c4Description="Provides the UI for creating an account on the application." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="R7PX_QC7KGMkwBb3biL6-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
             <mxGeometry x="660" y="-740" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Forgot your password Button" c4Type="Container" c4Technology="JAVA" c4Description="Provides the UI for making a password reset request." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="R7PX_QC7KGMkwBb3biL6-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
+            <mxGeometry x="520" y="-600" width="160" height="100" as="geometry" />
           </mxCell>
         </object>
       </root>
