@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T18:03:30.937Z" agent="5.0 (X11)" etag="koTX6FGt8LWpS7s8gVdY" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-28T18:04:36.501Z" agent="5.0 (X11)" etag="2Q1Zh2f-rMn4zFRFq4Qq" version="14.5.3" type="github" pages="4">
   <diagram name="User Entry Channel Module" id="3mVHYXctMBW3wJz3Hiqr">
     <mxGraphModel dx="1673" dy="3262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Backend Module" c4Type="Software System" c4Description="The internal API of the current channel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="5MAAJvF7uHnc804dla1a-14">
+        <object placeholders="1" c4Name="Backend Module" c4Type="Software System" c4Description="The backend module responsible with authentication &amp; authorization of users." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="5MAAJvF7uHnc804dla1a-14">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fillColor=#1168BD;" vertex="1" parent="o9i_BpebNKQVFLbcYuT6-1">
             <mxGeometry x="520" y="-340" width="160" height="100" as="geometry" />
           </mxCell>
@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Channel Management Module" id="QWqTEnkOtP9ACVPwiv00">
-    <mxGraphModel dx="1422" dy="3123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mQUH3nDY8lA-0CQJi3Wt-0" />
         <mxCell id="mQUH3nDY8lA-0CQJi3Wt-1" parent="mQUH3nDY8lA-0CQJi3Wt-0" />
