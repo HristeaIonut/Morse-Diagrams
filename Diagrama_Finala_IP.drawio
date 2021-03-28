@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T17:45:19.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kJytKja_VSiDcrnA-Bb1" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-28T17:48:14.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_lBoihX0ks0h4e6fGxbN" version="14.5.3" type="github" pages="4">
   <diagram name="User Entry Module" id="3mVHYXctMBW3wJz3Hiqr">
-    <mxGraphModel dx="1038" dy="2886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="o9i_BpebNKQVFLbcYuT6-0" />
         <mxCell id="o9i_BpebNKQVFLbcYuT6-1" parent="o9i_BpebNKQVFLbcYuT6-0" />
@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Channel Management Module" id="QWqTEnkOtP9ACVPwiv00">
-    <mxGraphModel dx="1865" dy="2886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="2886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mQUH3nDY8lA-0CQJi3Wt-0" />
         <mxCell id="mQUH3nDY8lA-0CQJi3Wt-1" parent="mQUH3nDY8lA-0CQJi3Wt-0" />
@@ -201,21 +201,10 @@
             <mxPoint x="400" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Aplication UI" c4Type="Container" c4Technology="JAVA" c4Description="The Select Channel button that will let the costumer choose the messaging platform" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="u-zlIi6k5A0aTZN8uA1E-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="mQUH3nDY8lA-0CQJi3Wt-1" vertex="1">
-            <mxGeometry x="680" y="-1900" width="160" height="100" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="u-zlIi6k5A0aTZN8uA1E-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mQUH3nDY8lA-0CQJi3Wt-1" source="Oa9h-B3bSh0ZKCuEMOI9-0" edge="1" target="u-zlIi6k5A0aTZN8uA1E-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="-1710" as="sourcePoint" />
             <mxPoint x="370" y="-1810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-zlIi6k5A0aTZN8uA1E-4" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.438;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mQUH3nDY8lA-0CQJi3Wt-1" target="u-zlIi6k5A0aTZN8uA1E-0" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="-1810" as="sourcePoint" />
-            <mxPoint x="460" y="-1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u-zlIi6k5A0aTZN8uA1E-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="mQUH3nDY8lA-0CQJi3Wt-1" vertex="1">
@@ -250,7 +239,7 @@
         </object>
         <object placeholders="1" c4Name="Aplication UI" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Oa9h-B3bSh0ZKCuEMOI9-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="mQUH3nDY8lA-0CQJi3Wt-1">
-            <mxGeometry x="-10" y="-1820" width="160" height="90" as="geometry" />
+            <mxGeometry x="140" y="-1843" width="160" height="90" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Delete channel&#xa;" c4Type="Component" c4Technology="technology" c4Description="Deletes a channel from the main screen" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jf1zhvNXtCwp9bPW04Ke-1">
@@ -263,35 +252,21 @@
             <mxGeometry x="470" y="-1030" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Show Contacts" c4Type="Component" c4Technology="technology" c4Description="Show Contacts for a specific channel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jf1zhvNXtCwp9bPW04Ke-3">
+        <object placeholders="1" c4Name="Show Channels" c4Type="Component" c4Technology="Java" c4Description="Show the users channels" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jf1zhvNXtCwp9bPW04Ke-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="mQUH3nDY8lA-0CQJi3Wt-1">
-            <mxGeometry x="650" y="-1720" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="254" y="-1700" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Filter" c4Type="Component" c4Technology="technology" c4Description="Filter the contacts to show only some of them" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jf1zhvNXtCwp9bPW04Ke-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="mQUH3nDY8lA-0CQJi3Wt-1">
-            <mxGeometry x="460" y="-1720" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="50" y="-1700" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="API Service" c4Type="Software System" c4Description="The existing messenger API" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="5uSQqxoHoF7IWDSPw6dh-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="mQUH3nDY8lA-0CQJi3Wt-1">
-            <mxGeometry x="280" y="-1550" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="390" y="-1520" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="dMJgKwdp1JMhe2txZkGm-0" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="mQUH3nDY8lA-0CQJi3Wt-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="-850" as="sourcePoint" />
-            <mxPoint x="625" y="-800" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="-820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dMJgKwdp1JMhe2txZkGm-1" value="Interacts with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="dMJgKwdp1JMhe2txZkGm-0">
-          <mxGeometry x="0.3384" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_PTWb43f8Vtv_P67e09J-0" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="mQUH3nDY8lA-0CQJi3Wt-1" source="7q_4HMl0DqpHRzf7uuXr-0" target="Oa9h-B3bSh0ZKCuEMOI9-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="-1930" as="sourcePoint" />
